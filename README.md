@@ -13,7 +13,7 @@ i use embedding model [nlpai-lab/KoE5](https://huggingface.co/nlpai-lab/KoE5)
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.11
 - Install dependencies:
 
   ```bash
